@@ -28,7 +28,7 @@ p {
    color: gray; 
 }
 
-p.copyright {
+footer.copyright {
     text-align: right;
     color: gray;
 }
